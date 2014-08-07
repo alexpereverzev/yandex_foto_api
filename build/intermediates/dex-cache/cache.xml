@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Александр\Desktop\quickblox\WheelyTest\YandexFoto\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-8b09a202c3ab99b63a03b6a83ca97db44232175a.jar"
+        jar="D:\android\AS\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="C:\Users\Александр\Desktop\quickblox\WheelyTest\YandexFoto\app\build\intermediates\pre-dexed\debug\classes-bc3badbf1ea30c1668b05f3706cbddf1dd977910.jar"
+        jar="C:\Users\Александр\Desktop\quickblox\WheelyTest\YandexFoto\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+
+</pre-dex-items>
